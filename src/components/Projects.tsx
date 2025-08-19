@@ -9,7 +9,7 @@ const Projects = () => {
       technologies: ["Next.js", "Tailwind CSS", "Node.js", "Cloudinary API"],
       icon: <Image className="w-8 h-8 text-white" />,
       metrics: "90%+ accuracy, 98% test success rate",
-      githubUrl: "", // Add your GitHub URL here
+      githubUrl: "https://github.com/harshithapalamani/rendernova.git", // Add your GitHub URL here
       gradient: "from-blue-500 to-teal-500"
     },
     {
@@ -19,7 +19,7 @@ const Projects = () => {
       icon: <Smartphone className="w-8 h-8 text-white" />,
       metrics: "50+ requests handled, role-based access",
       gradient: "from-purple-500 to-blue-500",
-      githubUrl: "" // Add your GitHub URL here
+      githubUrl: "https://github.com/harshithapalamani/rendernova" // Add your GitHub URL here
     },
     {
       title: "Student-Alumni Platform",
@@ -28,7 +28,7 @@ const Projects = () => {
       icon: <Globe className="w-8 h-8 text-white" />,
       metrics: "300+ students served",
       gradient: "from-teal-500 to-blue-500",
-      githubUrl: "" // Add your GitHub URL here
+      githubUrl: "https://github.com/harshithapalamani/alumni-student-intelligent-platform" // Add your GitHub URL here
     },
     {
       title: "Gemini AI Chatbot Clone",
@@ -37,7 +37,7 @@ const Projects = () => {
       icon: <Bot className="w-8 h-8 text-white" />,
       metrics: "95%+ session retention",
       gradient: "from-blue-600 to-purple-600",
-      githubUrl: "" // Add your GitHub URL here
+      githubUrl: "https://github.com/harshithapalamani/alumni-student-intelligent-platform" // Add your GitHub URL here
     },
     {
       title: "Fake News Detection App",
@@ -46,7 +46,7 @@ const Projects = () => {
       icon: <Shield className="w-8 h-8 text-white" />,
       metrics: "87% accuracy, 100+ articles analyzed",
       gradient: "from-purple-600 to-teal-600",
-      githubUrl: "" // Add your GitHub URL here
+      githubUrl: "https://github.com/harshithapalamani/app-news-detect" // Add your GitHub URL here
     }
   ];
 
